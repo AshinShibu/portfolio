@@ -1,0 +1,47 @@
+body{
+
+    color: white;
+    background-color:black;
+  
+}
+
+
+.contacts
+{
+    margin-left: 50%;
+    color: aliceblue;
+}
+.c1
+{
+    display: flex;
+    justify-content: center;
+    margin: None;
+}
+.m1
+{
+    color: aliceblue;
+    
+}
+.skill{
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-left: 390px;
+
+}
+.img img {
+    width: 80px; 
+    height: 80px;
+}
+.img{
+    margin: None;
+    display: flex;
+    justify-content: center;
+}
+.para
+{
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-left: 20%;
+}

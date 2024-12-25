@@ -1,0 +1,62 @@
+body{
+
+    color: white;
+    background-color:black;
+  
+}
+.start{
+       display: flex;
+       justify-content: center;
+
+}
+.bio
+{
+    display: flex;
+    justify-content: center;
+    margin: None;
+}
+.sub
+{
+    display: flex;
+    justify-content: center;
+    margin: None;
+}
+.home1
+{
+    color: white;
+}
+.small
+{
+   width: 25%;
+}
+.About
+{
+    width:75%;
+    
+}
+.big
+{
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+}
+
+button{
+    background-color: grey;
+    margin-left: 50px;
+}
+.cl1
+{
+    color: aliceblue;
+    
+}
+.cl2
+{
+    color: white;
+    
+}
+.c3
+{
+    color: aliceblue;
+    
+}
